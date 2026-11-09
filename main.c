@@ -9,7 +9,7 @@ int main(void)
     if ((number >= 0 && number < 10) ||
         (number >= 12 && number < 15))
     {
-        printf("OK");
+        printf("OK")
     }
     // それ以外の整数はNGとする
     else
